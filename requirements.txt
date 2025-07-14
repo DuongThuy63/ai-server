@@ -1,6 +1,7 @@
 flask==3.0.3
 gunicorn
-transformers==4.45.1
+
+transformers==4.28.1
 tokenizers==0.13.3
 torch==2.5.1
 
@@ -14,13 +15,5 @@ tqdm
 huggingface-hub
 numpy
 packaging
-
-# Optional but likely used for graphs or PDF visuals
 matplotlib
 pillow
-
-# Small useful libs
-Jinja2
-itsdangerous
-Werkzeug
-typing_extensions
