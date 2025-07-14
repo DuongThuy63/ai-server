@@ -37,7 +37,7 @@ six==1.16.0
 sympy==1.13.3
 textblob==0.18.0.post0
 tokenizers==0.13.3
-torch==2.4.1
+torch==2.5.1
 tqdm==4.66.5
 transformers==4.45.1
 typing_extensions==4.12.2
